@@ -1,6 +1,7 @@
 # kotgirwar_fan_club
 
 A new Flutter project.
+A fxking fan club.
 
 ## Getting Started
 
