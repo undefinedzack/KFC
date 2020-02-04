@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326080882123",
+    "firebase_url": "https://kfcundefinedzack-675f8.firebaseio.com",
+    "project_id": "kfcundefinedzack-675f8",
+    "storage_bucket": "kfcundefinedzack-675f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326080882123:android:25490e7c766b5f0bbe824e",
+        "android_client_info": {
+          "package_name": "com.undefinedzack.kotgirwar_fan_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326080882123-vrvl4beupg0du6dgn2v49k8381s8l20e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCne3DKO8W5I1s2Yh4eI5PGl5nPCe4XS20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326080882123-vrvl4beupg0du6dgn2v49k8381s8l20e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
